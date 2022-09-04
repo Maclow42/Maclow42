@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Maclow42
+- 👀 I’m interested in climbing, coding and reading
+- 🌱 I’m currently studying in EPITA, it's a engineering scool in computer sciences in Paris, France
+- 📫 You can contact me at maclow.cartier@hotmail.com
