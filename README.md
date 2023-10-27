@@ -5,8 +5,7 @@ Hello there! 👋 I'm Maclow, currently in my second year at EPITA, where my cur
 
 ## Skills
 - **Languages:** Python, C, C++, Wolfram Language, HTML/CSS/JS
-- **Specialization:** Cybersecurity
-- **Interest:** Artificial Intelligence
+- **Interest:** Cybersecurity and Artificial Intelligence
 
 ## Coding Journey
 My coding adventure started with a Raspberry Pi, and from there, I've delved into multiple languages, from the versatile Python to the robust C and C++. The beauty of coding, for me, lies in the endless possibilities it unlocks.
