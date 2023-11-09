@@ -8,12 +8,12 @@ Hello there! 👋 I'm Maclow, currently in my second year at EPITA, where my cur
 - **Interest:** Cybersecurity and Artificial Intelligence
 
 ## Coding Journey
-My coding adventure started with a Raspberry Pi, and from there, I've delved into multiple languages, from the versatile Python to the robust C and C++. The beauty of coding, for me, lies in the endless possibilities it unlocks.
+My coding adventure started with a Raspberry Pi, and from there, I've delved into multiple languages, from Python to C and C++. The beauty of coding, for me, lies in the endless possibilities it unlocks.
 
 ## Cybersecurity Enthusiast
 I have a keen interest in the world of cybersecurity. My journey into the depths of digital security is reflected in my RootMe profile: [Maclow42](https://www.root-me.org/Maclow42?lang=fr#60f4d6459258e57c00b614cd1c84b60e).
 
-## AI Aficionado
+## AI amateur
 Beyond cybersecurity, I find myself captivated by the wonders of Artificial Intelligence. I've already done several small projects exploring this universe (image recognition, flappyIA, ...).
 
 ## Let's Connect
