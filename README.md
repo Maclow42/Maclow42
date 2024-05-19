@@ -4,11 +4,11 @@
 Hello there! 👋 I'm Maclow, currently in my second year at EPITA, where my curiosity for all things tech and my passion for coding thrive. I embarked on the coding journey at the tender age of 11, armed with a Raspberry Pi, and I've been exploring the digital realms ever since.
 
 ## Skills
-- **Languages:** Python, C, C++, Wolfram Language, HTML/CSS/JS
+- **Languages:** Python, C, Java, NextJS/ReactJS
 - **Interest:** Cybersecurity and Artificial Intelligence
 
 ## Coding Journey
-My coding adventure started with a Raspberry Pi, and from there, I've delved into multiple languages, from Python to C and C++. The beauty of coding, for me, lies in the endless possibilities it unlocks.
+My coding adventure started with a Raspberry Pi, and from there, I've delved into multiple languages, from Python to Java and C. The beauty of coding, for me, lies in the endless possibilities it unlocks.
 
 ## Cybersecurity Enthusiast
 I have a keen interest in the world of cybersecurity. My journey into the depths of digital security is reflected in my RootMe profile: [Maclow42](https://www.root-me.org/Maclow42?lang=fr#60f4d6459258e57c00b614cd1c84b60e).
